@@ -1,3 +1,8 @@
+/**********************************************
+* Written by: Debdipta Ghosh 
+* 	      Rajat Kanti Sarkar
+* Year: 2006
+* *********************************************/
 #include <stdio.h>
 #include <conio.h>
 #include <dos.h>
